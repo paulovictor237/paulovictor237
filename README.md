@@ -29,7 +29,7 @@
 
 -----
 
-<!--START_SECTION:skills-->
+<!--START_SECTION:skills
 ### Languages and Tools: 
 
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
@@ -45,6 +45,7 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
   
 -----
+-->
 
 <!--START_SECTION:contact-->
 ### Contact:
