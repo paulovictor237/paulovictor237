@@ -62,3 +62,4 @@
 </details>
   
 ![Snake animation](https://github.com/paulovictor237)
+![Snake animation](https://github.com/paulovictor237/paulovictor237/blob/output/github-contribution-grid-snake.svg)
