@@ -61,5 +61,4 @@
 <h1 align="left">¯\_(ツ)_/¯</h1>
 </details>
   
-![Snake animation](https://github.com/paulovictor237)
 ![Snake animation](https://github.com/paulovictor237/paulovictor237/blob/output/github-contribution-grid-snake.svg)
