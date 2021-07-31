@@ -27,6 +27,8 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulovictor237&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulovictor237&layout=compact&langs_count=8&theme=dracula"/>
 
+![Snake animation](https://github.com/paulovictor237/paulovictor237/blob/output/github-contribution-grid-snake.svg)
+  
 -----
 
 <!--START_SECTION:skills
@@ -55,10 +57,10 @@
 <a href="https://www.youtube.com/channel/UCpwOotBhA42qL94eIfr7E3Q" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/paulovictor237" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
 <details>
 <summary>Click Here 👈 </summary>
 <h1 align="left">¯\_(ツ)_/¯</h1>
 </details>
   
-![Snake animation](https://github.com/paulovictor237/paulovictor237/blob/output/github-contribution-grid-snake.svg)
+-----
+
