@@ -11,7 +11,7 @@
 -----
 
 - 😄 My nickname: **PeVe**
-- 🌱 I’m currently learning: **HTML, CSS, JavaScript, Typescript and React**
+- 🌱 I’m currently learning: **HTML, CSS, JavaScript, Typescript, React**
 - 🤖 Experience with robots: **Kuka, Universal Robots, Omron**
 - 💬 Program skills: **C, Python, C++, Git, Gitflow, LaTeX ,ROS**
 - ⚙ Embedded systems: **Raspberry Pi, Arduino, TivaWare, Esp32**
