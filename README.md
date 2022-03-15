@@ -11,13 +11,12 @@
 -----
 
 - 😄 My nickname: **PeVe**
-- 🌱 I’m currently learning: **HTML, CSS, JavaScript, React and React Native**
+- 🌱 I’m currently learning: **HTML, CSS, JavaScript, Typescript and React**
 - 🤖 Experience with robots: **Kuka, Universal Robots, Omron**
-- 💬 Program skills: **C, Python, C++**
-- 💾 Softwares : **PSIM, LaTeX, Git, Autodesk Eagle, Octave , Blender, ROS, Matlab, Onshape, Ultimaker Cura**
+- 💬 Program skills: **C, Python, C++, Git, Gitflow, LaTeX ,ROS**
 - ⚙ Embedded systems: **Raspberry Pi, Arduino, TivaWare, Esp32**
 - 💻 Operational systems: **Linux, Windows**
-
+<!-- 💾 Softwares : **PSIM, LaTeX, Git, Autodesk Eagle, Octave , Blender, ROS, Matlab, Onshape, Ultimaker Cura** -->
 ---
 
 <!--START_SECTION:activity-->
