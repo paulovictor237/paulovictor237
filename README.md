@@ -3,10 +3,10 @@
 <!--START_SECTION:GIF-->
 <!-- <p align="center"><img align="center" alt="GIF" src="files/IronGiant5.gif" /> -->
 
-<p align="center">
-  <img src="files/IronGiant5.gif" width="auto" />
-  <img src="files/IronGiant3.gif" width="auto" /> 
-</p>
+<div align="center">
+  <img src="files/IronGiant5.gif" width="49%" />
+  <img src="files/IronGiant3.gif" width="49%" /> 
+</div>
 
 -----
 
