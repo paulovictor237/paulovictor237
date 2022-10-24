@@ -10,13 +10,13 @@
 
 -----
 
-- 😄 My nickname: **PeVe**
-- 🌱 I’m currently learning: **HTML, CSS, JavaScript, Typescript, React**
-- 🤖 Experience with robots: **Kuka, Universal Robots, Omron**
-- 💬 Program skills: **C, Python, C++, Git, Gitflow, LaTeX ,ROS**
-- ⚙ Embedded systems: **Raspberry Pi, Arduino, TivaWare, Esp32**
-- 💻 Operational systems: **Linux, Windows**
-<!-- 💾 Softwares : **PSIM, LaTeX, Git, Autodesk Eagle, Octave , Blender, ROS, Matlab, Onshape, Ultimaker Cura** -->
+- 😄 My nickname: PeVe
+- 🌱 I’m currently learning: Node
+- 🤖 Experience with robots: Kuka, UR Robots, Omron
+- 💬 Program skills: C, C++, Python, Javascript, Typescript, React, HTML CSS
+- 💾 Softwares : Gitflow, ROS, MoveIt, Octave, Matlab
+- ⚙ Embedded systems: RBP, Arduino, Tiva, Esp32
+- 💻 Operational systems: Linux, Windows
 ---
 
 <!--START_SECTION:activity-->
