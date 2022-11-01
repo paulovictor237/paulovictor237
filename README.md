@@ -29,10 +29,3 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulovictor237&layout=compact&langs_count=8&theme=dracula"/>
 
 ---
-
-<details>
-<summary>Click Here 👈 </summary>
-<h1 align="left">¯\_(ツ)_/¯</h1>
-</details>
-  
------
