@@ -11,9 +11,9 @@
 ---
 
 - 😄 My nickname: PeVe
-- 🌱 I’m currently learning: Node
+- 🌱 I’m currently learning: React Native
 - 🤖 Experience with robots: Kuka, UR Robots, Omron
-- 💬 Program skills: C, C++, Python, Javascript, Typescript, React, HTML CSS
+- 💬 Program skills: C, C++, Python, Typescript, ReactJs, NodeJs, HTML CSS
 - 💾 Softwares : Gitflow, ROS, MoveIt, Octave, Matlab
 - ⚙ Embedded systems: RBP, Arduino, Tiva, Esp32
 - 💻 Operational systems: Linux, Windows
