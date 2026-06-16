@@ -1,16 +1,16 @@
 <!-- HEADER ------------------------------------------------------------------>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6272A4,100:BD93F9&height=200&section=header&text=Paulo%20Victor%20(PeVe)&fontColor=F8F8F2&fontSize=42&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFECF3,100:F9B2D7&height=200&section=header&text=Paulo%20Victor%20(PeVe)&fontColor=4A2C3D&fontSize=42&animation=fadeIn" width="100%" alt="header" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=BD93F9&center=true&vCenter=true&width=500&lines=Software+Developer;Mechatronic+Engineer+-+UFSC;Robotics+%26+Embedded+Systems" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=F9B2D7&center=true&vCenter=true&width=500&lines=Software+Developer;Mechatronic+Engineer+-+UFSC;Robotics+%26+Embedded+Systems" alt="roles" />
 </h3>
 
 <p align="center">
   <a href="https://github.com/paulovictor237"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/paulovictor237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:paulovictor237@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=paulovictor237&style=for-the-badge&color=blueviolet&label=Views" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=paulovictor237&style=for-the-badge&color=F9B2D7&label=Views" alt="views" />
 </p>
 
 <div align="center">
@@ -82,33 +82,25 @@
 <h2>📊 &nbsp;GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulovictor237&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulovictor237&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulovictor237&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F9B2D7&icon_color=CFECF3&text_color=DAF9DE&bg_color=1A1620&ring_color=F9B2D7" alt="stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulovictor237&layout=compact&langs_count=8&hide_border=true&title_color=F9B2D7&text_color=DAF9DE&bg_color=1A1620" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=paulovictor237&theme=dracula&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=paulovictor237&hide_border=true&background=1A1620&ring=F9B2D7&fire=F9B2D7&currStreakLabel=F9B2D7&currStreakNum=DAF9DE&sideLabels=CFECF3&sideNums=DAF9DE&dates=8A7A85&stroke=F9B2D7" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulovictor237&theme=dracula&hide_border=true&area=true" alt="activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulovictor237&hide_border=true&area=true&bg_color=1A1620&color=F9B2D7&line=F9B2D7&point=CFECF3&area_color=F9B2D7&title_color=F9B2D7" alt="activity graph" width="100%" />
 </div>
 
 <details>
   <summary><b>📈 &nbsp;More stats</b></summary>
   <br />
   <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulovictor237&theme=dracula" alt="profile details" width="100%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paulovictor237&theme=dracula&utcOffset=-3" alt="productive time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulovictor237&theme=2077" alt="profile details" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paulovictor237&theme=2077&utcOffset=-3" alt="productive time" />
   </div>
 </details>
 
-<!-- TROPHIES ---------------------------------------------------------------->
-
-<h2>🏆 &nbsp;Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paulovictor237&row=1&column=6&theme=dracula&margin-w=15&margin-h=15&no-bg=true" alt="trophies" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:6272A4&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9B2D7,100:CFECF3&height=120&section=footer" width="100%" alt="footer" />
