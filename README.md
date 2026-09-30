@@ -39,7 +39,7 @@
 
  ┌──<b>[ ~/contact ]</b>───────────────────────────────────────────·
  │
- │   [ <a href="https://github.com/paulovictor237">github</a> ]   [ <a href="https://www.linkedin.com/in/paulovictor237">linkedin</a> ]   [ <a href="mailto:paulovictor237@gmail.com">email</a> ]
+ │   [ <a href="https://github.com/paulovictor237">github</a> ]   [ <a href="https://www.linkedin.com/in/paulo-victor-duarte/">linkedin</a> ]
  │
 
 
