@@ -16,6 +16,7 @@
                  software developer  ::  mechatronic engineer
                        ufsc  ::  brazil  ::  a.k.a <b>peve</b>
 
+
  ┌──<b>[ ~/now ]</b>───────────────────────────────────────────────·
  │
  │   &gt;&gt; building with AI agents_
@@ -36,13 +37,6 @@
  │   before the code, there were robots.          / |_____| \
  │                                                   _| |_
 
- ┌──<b>[ ~/projects ]</b>──────────────────────────────────────────·
- │
- ├─ <a href="https://github.com/paulovictor237/chrome-column-bookmarks">chrome-column-bookmarks</a> ....... column-view bookmarks on the new tab
- ├─ <a href="https://github.com/paulovictor237/linux-scripts">linux-scripts</a> ................. shell setup for an ubuntu dev env
- ├─ <a href="https://github.com/paulovictor237/ArmAgeddon">ArmAgeddon</a> .................... robot arm simulation · ros + moveit
- └─ <a href="https://github.com/paulovictor237/pink-candy-theme">pink-candy-theme</a> .............. pink dark theme for zed
-
  ┌──<b>[ ~/contact ]</b>───────────────────────────────────────────·
  │
  │   [ <a href="https://github.com/paulovictor237">github</a> ]   [ <a href="https://www.linkedin.com/in/paulovictor237">linkedin</a> ]   [ <a href="mailto:paulovictor237@gmail.com">email</a> ]
@@ -55,5 +49,4 @@
 <b>peve@github:~$</b> _
 </pre>
 
-<img src="files/IronGiant5.gif" width="49%" alt="Iron Giant" />
-<img src="files/IronGiant3.gif" width="49%" alt="Iron Giant" />
+<p><img src="files/IronGiant5.gif" width="49%" alt="Iron Giant" /><img src="files/IronGiant3.gif" width="49%" alt="Iron Giant" /></p>
