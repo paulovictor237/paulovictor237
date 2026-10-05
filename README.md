@@ -1,52 +1,9 @@
-<pre>
-<b>peve@github:~$</b> ./welcome.sh
+<p align="center">
+  <img src="files/neofetch.svg" width="100%" alt="peve@github neofetch: software developer and mechatronic engineer from UFSC, Brazil. Stack: typescript, python, react, next.js, node, postgres. Robots: kuka, ur, omron. Embedded: esp32, raspberry pi, arduino. Building with AI agents." />
+</p>
 
-   .        *           .          +           .        *          .
-        +         .           *          .           +       .
-   *                 .                  .      *                  +
-                          _                    _        _
-     _ __    __ _  _   _ | |  ___      __   __(_)  ___ | |_   ___   _ __
-    | '_ \  / _` || | | || | / _ \     \ \ / /| | / __|| __| / _ \ | '__|
-    | |_) || (_| || |_| || || (_) |     \ V / | || (__ | |_ | (_) || |
-    | .__/  \__,_| \__,_||_| \___/       \_/  |_| \___| \__| \___/ |_|
-    |_|
-
-           .:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.
-
-                 software developer  ::  mechatronic engineer
-                       ufsc  ::  brazil  ::  a.k.a <b>peve</b>
-
-
- ┌──<b>[ ~/now ]</b>───────────────────────────────────────────────·
- │
- │   &gt;&gt; building with AI agents_
- │
-
- ┌──<b>[ ~/stack ]</b>─────────────────────────────────────────────·
- │
- │   lang ...... typescript · python
- │   web ....... react · next.js · node
- │   data ...... postgres
- │
-
- ┌──<b>[ ~/roots ]</b>─────────────────────────────────────────────·
- │                                                  .-----.
- │   robotics .. kuka · ur · omron                 [| o o |]
- │   embedded .. esp32 · raspberry pi · arduino     |  =  |
- │                                                 /|-----|\
- │   before the code, there were robots.          / |_____| \
- │                                                   _| |_
-
- ┌──<b>[ ~/contact ]</b>───────────────────────────────────────────·
- │
- │   [ <a href="https://github.com/paulovictor237">github</a> ]   [ <a href="https://www.linkedin.com/in/paulo-victor-duarte/">linkedin</a> ]
- │
-
-
-           .:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.
-                 thanks for stopping by  ::  have a nice day
-
-<b>peve@github:~$</b> _
-</pre>
+<p align="center">
+  <a href="https://github.com/paulovictor237">github</a> · <a href="https://www.linkedin.com/in/paulo-victor-duarte/">linkedin</a>
+</p>
 
 <p><img src="files/IronGiant5.gif" width="49%" alt="Iron Giant" /><img src="files/IronGiant3.gif" width="49%" alt="Iron Giant" /></p>

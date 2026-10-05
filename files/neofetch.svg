@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="468" viewBox="0 0 720 468" role="img" aria-label="peve@github neofetch">
+<rect width="720" height="468" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="20" cy="18" r="6" fill="#ff5f56"/><circle cx="40" cy="18" r="6" fill="#ffbd2e"/><circle cx="60" cy="18" r="6" fill="#27c93f"/>
+<text x="360" y="22" fill="#6e7681" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">peve@github: ~</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve">
+<text x="24" y="64"><tspan fill="#7ee787" font-weight="bold">peve@github</tspan><tspan fill="#e6edf3">:~$ neofetch</tspan></text>
+<text x="264" y="104"><tspan fill="#f2c94c" font-weight="bold">peve</tspan><tspan fill="#e6edf3">@</tspan><tspan fill="#f2c94c" font-weight="bold">github</tspan></text>
+<text x="264" y="124"><tspan fill="#6e7681">-----------</tspan></text>
+<text x="264" y="144"><tspan fill="#f2c94c" font-weight="bold">OS</tspan><tspan fill="#e6edf3">: Human 1.0 · mechatronic edition</tspan></text>
+<text x="264" y="164"><tspan fill="#f2c94c" font-weight="bold">Host</tspan><tspan fill="#e6edf3">: UFSC · Brazil</tspan></text>
+<text x="264" y="184"><tspan fill="#f2c94c" font-weight="bold">Kernel</tspan><tspan fill="#e6edf3">: software developer</tspan></text>
+<text x="264" y="204"><tspan fill="#f2c94c" font-weight="bold">Uptime</tspan><tspan fill="#e6edf3">: since robots came before code</tspan></text>
+<text x="264" y="224"><tspan fill="#f2c94c" font-weight="bold">Shell</tspan><tspan fill="#e6edf3">: typescript · python</tspan></text>
+<text x="264" y="244"><tspan fill="#f2c94c" font-weight="bold">Frameworks</tspan><tspan fill="#e6edf3">: react · next.js · node</tspan></text>
+<text x="264" y="264"><tspan fill="#f2c94c" font-weight="bold">Database</tspan><tspan fill="#e6edf3">: postgres</tspan></text>
+<text x="264" y="284"><tspan fill="#f2c94c" font-weight="bold">Robots</tspan><tspan fill="#e6edf3">: kuka · ur · omron</tspan></text>
+<text x="264" y="304"><tspan fill="#f2c94c" font-weight="bold">Embedded</tspan><tspan fill="#e6edf3">: esp32 · raspberry pi · arduino</tspan></text>
+<text x="264" y="324"><tspan fill="#f2c94c" font-weight="bold">Process</tspan><tspan fill="#e6edf3">: building with AI agents_</tspan></text>
+<text x="264" y="344"><tspan fill="#f2c94c" font-weight="bold">Memory</tspan><tspan fill="#e6edf3">: 2048MiB / ∞ coffee</tspan></text>
+<text x="264" y="364"><tspan fill="#f2c94c" font-weight="bold">Contact</tspan><tspan fill="#e6edf3">: github · linkedin</tspan></text>
+<text x="32" y="124"><tspan fill="#6e7681">        #####</tspan></text>
+<text x="32" y="144"><tspan fill="#6e7681">       #######</tspan></text>
+<text x="32" y="164"><tspan fill="#6e7681">       ##</tspan><tspan fill="#e6edf3">O</tspan><tspan fill="#6e7681">#</tspan><tspan fill="#e6edf3">O</tspan><tspan fill="#6e7681">##</tspan></text>
+<text x="32" y="184"><tspan fill="#6e7681">       #</tspan><tspan fill="#f2c94c">#####</tspan><tspan fill="#6e7681">#</tspan></text>
+<text x="32" y="204"><tspan fill="#6e7681">     ##</tspan><tspan fill="#e6edf3">##</tspan><tspan fill="#f2c94c">###</tspan><tspan fill="#e6edf3">##</tspan><tspan fill="#6e7681">##</tspan></text>
+<text x="32" y="224"><tspan fill="#6e7681">    #</tspan><tspan fill="#e6edf3">##########</tspan><tspan fill="#6e7681">##</tspan></text>
+<text x="32" y="244"><tspan fill="#6e7681">   #</tspan><tspan fill="#e6edf3">############</tspan><tspan fill="#6e7681">##</tspan></text>
+<text x="32" y="264"><tspan fill="#6e7681">   #</tspan><tspan fill="#e6edf3">############</tspan><tspan fill="#6e7681">###</tspan></text>
+<text x="32" y="284"><tspan fill="#f2c94c">  ##</tspan><tspan fill="#6e7681">#</tspan><tspan fill="#e6edf3">###########</tspan><tspan fill="#6e7681">##</tspan><tspan fill="#f2c94c">#</tspan></text>
+<text x="32" y="304"><tspan fill="#f2c94c">######</tspan><tspan fill="#6e7681">#</tspan><tspan fill="#e6edf3">#######</tspan><tspan fill="#6e7681">#</tspan><tspan fill="#f2c94c">######</tspan></text>
+<text x="32" y="324"><tspan fill="#f2c94c">#######</tspan><tspan fill="#6e7681">#</tspan><tspan fill="#e6edf3">#####</tspan><tspan fill="#6e7681">#</tspan><tspan fill="#f2c94c">#######</tspan></text>
+<text x="32" y="344"><tspan fill="#f2c94c">  #####</tspan><tspan fill="#6e7681">#######</tspan><tspan fill="#f2c94c">#####</tspan></text>
+<rect x="264" y="388" width="28" height="16" fill="#484f58"/>
+<rect x="292" y="388" width="28" height="16" fill="#ff7b72"/>
+<rect x="320" y="388" width="28" height="16" fill="#7ee787"/>
+<rect x="348" y="388" width="28" height="16" fill="#f2c94c"/>
+<rect x="376" y="388" width="28" height="16" fill="#79c0ff"/>
+<rect x="404" y="388" width="28" height="16" fill="#d2a8ff"/>
+<rect x="432" y="388" width="28" height="16" fill="#56d4dd"/>
+<rect x="460" y="388" width="28" height="16" fill="#e6edf3"/>
+<text x="24" y="444"><tspan fill="#7ee787" font-weight="bold">peve@github</tspan><tspan fill="#e6edf3">:~$ </tspan><tspan fill="#e6edf3">█<animate attributeName="fill-opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+</g>
+</svg>
