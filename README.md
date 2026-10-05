@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="files/neofetch.svg" width="100%" alt="peve@github neofetch: software developer and mechatronic engineer from UFSC, Brazil. Stack: typescript, python, react, next.js, node, postgres. Robots: kuka, ur, omron. Embedded: esp32, raspberry pi, arduino. Building with AI agents." />
+  <picture><img src="files/neofetch.svg" width="100%" alt="peve@github neofetch: software developer and mechatronic engineer from UFSC, Brazil. Stack: typescript, python, react, next.js, node, postgres. Robots: kuka, ur, omron. Embedded: esp32, raspberry pi, arduino. Building with AI agents." /></picture>
 </p>
 
 <p align="center">
